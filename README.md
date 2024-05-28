@@ -1,8 +1,10 @@
-# teste-facilita-juridico-back-typescript
+# Projeto
+
+Back-End do CRUD-Clients-Front-React
 
 # Iniciar o projeto
 
-O back-end foi utilizado node.js v20 LTS e PostgreSQL.
+O back-end foi utilizado node.js v20 LTS com Typescript e PostgreSQL.
 
 Para instalar as depencencias utilize `npm install`.
 
